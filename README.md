@@ -6,3 +6,5 @@ This is a program, proposed by CS50 practice problems, for making large letters 
  / /    \__ \/___ \/ / / /
 / /___ ___/ /___/ / /_/ / 
 \____//____/_____/\____/  
+
+I'm using Python as language. I hope I can help you, please don't forget to cite this source, together we are stronger! ;)
